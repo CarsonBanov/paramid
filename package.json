@@ -1,6 +1,6 @@
 {
   "name": "paramid",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parallelizes middleware.",
   "main": "paramid.js",
   "dependencies": {
